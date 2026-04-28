@@ -1,0 +1,3234 @@
+[
+  {
+    "data_extragerii": "2025-12-31",
+    "zi": "Mi",
+    "numere_extrase": [
+      48,
+      24,
+      23,
+      34,
+      28,
+      49
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 0.0,
+      "report": 10962584.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 14,
+      "valoare_castig": 53853.98,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 734,
+      "valoare_castig": 1027.18,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 18248,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-21",
+    "zi": "Du",
+    "numere_extrase": [
+      43,
+      5,
+      22,
+      34,
+      11,
+      42
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1162596.48,
+      "report": 8700717.28
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 43059.12,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 622,
+      "valoare_castig": 623.04,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10810,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-18",
+    "zi": "Jo",
+    "numere_extrase": [
+      12,
+      33,
+      30,
+      7,
+      17,
+      49
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 523864.08,
+      "report": 7438120.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 20,
+      "valoare_castig": 8731.06,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 518,
+      "valoare_castig": 337.1,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9165,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-14",
+    "zi": "Du",
+    "numere_extrase": [
+      41,
+      23,
+      12,
+      48,
+      32,
+      43
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 898697.76,
+      "report": 6914256.72
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 27233.26,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 530,
+      "valoare_castig": 565.21,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9250,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-11",
+    "zi": "Jo",
+    "numere_extrase": [
+      39,
+      4,
+      35,
+      36,
+      33,
+      6
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 545668.32,
+      "report": 6015558.96
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 45472.36,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 262,
+      "valoare_castig": 694.23,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5486,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-07",
+    "zi": "Du",
+    "numere_extrase": [
+      21,
+      49,
+      13,
+      14,
+      38,
+      20
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1012745.04,
+      "report": 5469890.64
+    },
+    "categoria_ii": {
+      "numar_castiguri": 12,
+      "valoare_castig": 28131.8,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 473,
+      "valoare_castig": 713.7,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9184,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-12-04",
+    "zi": "Jo",
+    "numere_extrase": [
+      15,
+      11,
+      37,
+      4,
+      47,
+      9
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 443671.68,
+      "report": 4357145.6
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 29578.11,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 386,
+      "valoare_castig": 383.13,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7424,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-30",
+    "zi": "Du",
+    "numere_extrase": [
+      23,
+      18,
+      41,
+      8,
+      25,
+      45
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 773045.52,
+      "report": 3913473.92
+    },
+    "categoria_ii": {
+      "numar_castiguri": 6,
+      "valoare_castig": 42946.97,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 551,
+      "valoare_castig": 467.66,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10245,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-27",
+    "zi": "Jo",
+    "numere_extrase": [
+      33,
+      41,
+      28,
+      25,
+      2,
+      30
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 484970.4,
+      "report": 3140428.4
+    },
+    "categoria_ii": {
+      "numar_castiguri": 8,
+      "valoare_castig": 20207.1,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 317,
+      "valoare_castig": 509.95,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5746,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-23",
+    "zi": "Du",
+    "numere_extrase": [
+      12,
+      20,
+      11,
+      17,
+      26,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 720501.36,
+      "report": 2655458.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 17,
+      "valoare_castig": 14127.47,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 589,
+      "valoare_castig": 407.75,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11083,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-20",
+    "zi": "Jo",
+    "numere_extrase": [
+      36,
+      47,
+      33,
+      39,
+      34,
+      3
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 515134.56,
+      "report": 1934956.64
+    },
+    "categoria_ii": {
+      "numar_castiguri": 1,
+      "valoare_castig": 171711.52,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 224,
+      "valoare_castig": 766.56,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 4406,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-16",
+    "zi": "Du",
+    "numere_extrase": [
+      14,
+      44,
+      12,
+      39,
+      40,
+      9
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 764202.48,
+      "report": 1419822.08
+    },
+    "categoria_ii": {
+      "numar_castiguri": 8,
+      "valoare_castig": 31841.77,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 383,
+      "valoare_castig": 665.1,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7787,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-13",
+    "zi": "Jo",
+    "numere_extrase": [
+      39,
+      7,
+      44,
+      9,
+      5,
+      43
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 455619.6,
+      "report": 655619.6
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 30374.64,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 183,
+      "valoare_castig": 829.9,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 4941,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-09",
+    "zi": "Du",
+    "numere_extrase": [
+      32,
+      19,
+      5,
+      10,
+      34,
+      23
+    ],
+    "categoria_i": {
+      "numar_castiguri": 1,
+      "valoare_castig": 49149676.24,
+      "report": 0.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 24,
+      "valoare_castig": 16997.54,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1254,
+      "valoare_castig": 325.31,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 20778,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-06",
+    "zi": "Jo",
+    "numere_extrase": [
+      42,
+      2,
+      20,
+      35,
+      22,
+      46
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 952121.76,
+      "report": 47925853.36
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 35263.76,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 458,
+      "valoare_castig": 692.95,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8210,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-11-02",
+    "zi": "Du",
+    "numere_extrase": [
+      11,
+      6,
+      24,
+      46,
+      44,
+      43
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1396412.16,
+      "report": 46973731.6
+    },
+    "categoria_ii": {
+      "numar_castiguri": 19,
+      "valoare_castig": 24498.45,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 687,
+      "valoare_castig": 677.54,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 14392,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-30",
+    "zi": "Jo",
+    "numere_extrase": [
+      19,
+      41,
+      25,
+      21,
+      2,
+      47
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 905362.8,
+      "report": 45577319.44
+    },
+    "categoria_ii": {
+      "numar_castiguri": 10,
+      "valoare_castig": 30178.76,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 551,
+      "valoare_castig": 547.7,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10155,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-26",
+    "zi": "Du",
+    "numere_extrase": [
+      32,
+      18,
+      16,
+      21,
+      10,
+      35
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1342929.6,
+      "report": 44671956.64
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 40694.83,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 784,
+      "valoare_castig": 570.97,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 15956,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-23",
+    "zi": "Jo",
+    "numere_extrase": [
+      3,
+      18,
+      40,
+      24,
+      36,
+      14
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 857215.92,
+      "report": 43329027.04
+    },
+    "categoria_ii": {
+      "numar_castiguri": 19,
+      "valoare_castig": 15038.87,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 867,
+      "valoare_castig": 329.57,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11063,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-19",
+    "zi": "Du",
+    "numere_extrase": [
+      14,
+      11,
+      21,
+      16,
+      5,
+      10
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1312795.68,
+      "report": 42471811.12
+    },
+    "categoria_ii": {
+      "numar_castiguri": 28,
+      "valoare_castig": 15628.52,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1290,
+      "valoare_castig": 339.22,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 22273,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-16",
+    "zi": "Jo",
+    "numere_extrase": [
+      12,
+      32,
+      15,
+      2,
+      7,
+      25
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 764291.52,
+      "report": 41059015.44
+    },
+    "categoria_ii": {
+      "numar_castiguri": 29,
+      "valoare_castig": 8784.96,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 895,
+      "valoare_castig": 284.65,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13988,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-12",
+    "zi": "Du",
+    "numere_extrase": [
+      5,
+      31,
+      33,
+      39,
+      36,
+      45
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1319156.64,
+      "report": 40294723.92
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 39974.44,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 736,
+      "valoare_castig": 597.44,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13794,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-09",
+    "zi": "Jo",
+    "numere_extrase": [
+      23,
+      41,
+      2,
+      35,
+      40,
+      13
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 811722.24,
+      "report": 38975567.28
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 54114.81,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 422,
+      "valoare_castig": 641.17,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9160,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-05",
+    "zi": "Du",
+    "numere_extrase": [
+      13,
+      18,
+      25,
+      30,
+      29,
+      34
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1108593.6,
+      "report": 38163845.04
+    },
+    "categoria_ii": {
+      "numar_castiguri": 18,
+      "valoare_castig": 20529.51,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 870,
+      "valoare_castig": 424.74,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 16476,
+      "valoare_castig": 50.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-10-02",
+    "zi": "Jo",
+    "numere_extrase": [
+      30,
+      9,
+      47,
+      23,
+      5,
+      10
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 836781.36,
+      "report": 37055251.44
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 25357.01,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 671,
+      "valoare_castig": 415.68,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11337,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-28",
+    "zi": "Du",
+    "numere_extrase": [
+      9,
+      25,
+      14,
+      36,
+      6,
+      8
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1231065.84,
+      "report": 36218470.08
+    },
+    "categoria_ii": {
+      "numar_castiguri": 21,
+      "valoare_castig": 19540.72,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1184,
+      "valoare_castig": 346.58,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 18901,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-25",
+    "zi": "Jo",
+    "numere_extrase": [
+      38,
+      32,
+      12,
+      17,
+      46,
+      23
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 851723.76,
+      "report": 34987404.24
+    },
+    "categoria_ii": {
+      "numar_castiguri": 25,
+      "valoare_castig": 11356.31,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 738,
+      "valoare_castig": 384.69,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9781,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-21",
+    "zi": "Du",
+    "numere_extrase": [
+      9,
+      30,
+      43,
+      32,
+      44,
+      36
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1318236.72,
+      "report": 34135680.48
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 109853.06,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 458,
+      "valoare_castig": 959.41,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11777,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-18",
+    "zi": "Jo",
+    "numere_extrase": [
+      5,
+      8,
+      4,
+      14,
+      42,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 840690.0,
+      "report": 32817443.76
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 56046.0,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 365,
+      "valoare_castig": 767.75,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9207,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-14",
+    "zi": "Du",
+    "numere_extrase": [
+      43,
+      30,
+      39,
+      31,
+      3,
+      22
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 0.0,
+      "report": 30658290.88
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 45869.88,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 462,
+      "valoare_castig": 893.56,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9794,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-11",
+    "zi": "Jo",
+    "numere_extrase": [
+      36,
+      13,
+      23,
+      30,
+      40,
+      4
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 781787.76,
+      "report": 29419804.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 23690.53,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 575,
+      "valoare_castig": 453.21,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9933,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-07",
+    "zi": "Du",
+    "numere_extrase": [
+      7,
+      43,
+      47,
+      6,
+      13,
+      42
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1198892.16,
+      "report": 28638016.24
+    },
+    "categoria_ii": {
+      "numar_castiguri": 13,
+      "valoare_castig": 30740.82,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 567,
+      "valoare_castig": 704.81,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13040,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-09-04",
+    "zi": "Jo",
+    "numere_extrase": [
+      46,
+      3,
+      21,
+      20,
+      31,
+      5
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 760638.96,
+      "report": 27439124.08
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 63386.58,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 399,
+      "valoare_castig": 635.45,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8429,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-31",
+    "zi": "Du",
+    "numere_extrase": [
+      37,
+      4,
+      30,
+      33,
+      6,
+      19
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1159009.44,
+      "report": 26678485.12
+    },
+    "categoria_ii": {
+      "numar_castiguri": 15,
+      "valoare_castig": 25755.76,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 741,
+      "valoare_castig": 521.37,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13798,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-28",
+    "zi": "Jo",
+    "numere_extrase": [
+      6,
+      16,
+      5,
+      48,
+      39,
+      49
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 801636.96,
+      "report": 25519475.68
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 53442.46,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 294,
+      "valoare_castig": 908.88,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6482,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-24",
+    "zi": "Du",
+    "numere_extrase": [
+      43,
+      31,
+      18,
+      24,
+      48,
+      41
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1241603.76,
+      "report": 24717838.72
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 37624.35,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 592,
+      "valoare_castig": 699.1,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9937,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-21",
+    "zi": "Jo",
+    "numere_extrase": [
+      15,
+      45,
+      11,
+      44,
+      8,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 814625.28,
+      "report": 23476234.96
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 30171.3,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 316,
+      "valoare_castig": 859.3,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7952,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-17",
+    "zi": "Du",
+    "numere_extrase": [
+      4,
+      35,
+      12,
+      3,
+      7,
+      42
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1101853.92,
+      "report": 22661609.68
+    },
+    "categoria_ii": {
+      "numar_castiguri": 12,
+      "valoare_castig": 30607.05,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 653,
+      "valoare_castig": 562.45,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13618,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-14",
+    "zi": "Jo",
+    "numere_extrase": [
+      10,
+      47,
+      9,
+      4,
+      31,
+      44
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 812814.96,
+      "report": 21559755.76
+    },
+    "categoria_ii": {
+      "numar_castiguri": 7,
+      "valoare_castig": 38705.47,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 330,
+      "valoare_castig": 821.02,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7517,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-10",
+    "zi": "Du",
+    "numere_extrase": [
+      1,
+      16,
+      8,
+      26,
+      5,
+      25
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1043530.32,
+      "report": 20746940.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 28,
+      "valoare_castig": 12422.98,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1030,
+      "valoare_castig": 337.71,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 16199,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-07",
+    "zi": "Jo",
+    "numere_extrase": [
+      42,
+      2,
+      46,
+      18,
+      31,
+      28
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 721927.92,
+      "report": 19703410.48
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 60160.66,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 335,
+      "valoare_castig": 718.33,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6229,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-08-03",
+    "zi": "Du",
+    "numere_extrase": [
+      37,
+      16,
+      29,
+      34,
+      22,
+      45
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1054392.0,
+      "report": 18981482.56
+    },
+    "categoria_ii": {
+      "numar_castiguri": 19,
+      "valoare_castig": 18498.1,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 643,
+      "valoare_castig": 546.6,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10716,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-31",
+    "zi": "Jo",
+    "numere_extrase": [
+      16,
+      42,
+      19,
+      1,
+      35,
+      15
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 697922.4,
+      "report": 17927090.56
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 46528.16,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 303,
+      "valoare_castig": 767.79,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6474,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-27",
+    "zi": "Du",
+    "numere_extrase": [
+      26,
+      34,
+      16,
+      12,
+      47,
+      32
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1025589.84,
+      "report": 17229168.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 17,
+      "valoare_castig": 20109.6,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 566,
+      "valoare_castig": 603.99,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10223,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-24",
+    "zi": "Jo",
+    "numere_extrase": [
+      25,
+      26,
+      37,
+      49,
+      18,
+      28
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 667370.16,
+      "report": 16203578.32
+    },
+    "categoria_ii": {
+      "numar_castiguri": 11,
+      "valoare_castig": 20223.33,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 311,
+      "valoare_castig": 715.29,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7049,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-20",
+    "zi": "Du",
+    "numere_extrase": [
+      26,
+      32,
+      17,
+      41,
+      38,
+      44
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1246936.32,
+      "report": 15536208.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 17,
+      "valoare_castig": 24449.73,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 680,
+      "valoare_castig": 611.24,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10490,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-17",
+    "zi": "Jo",
+    "numere_extrase": [
+      33,
+      1,
+      49,
+      4,
+      7,
+      30
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 666594.24,
+      "report": 14189271.84
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 44439.61,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 416,
+      "valoare_castig": 534.13,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8372,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-13",
+    "zi": "Du",
+    "numere_extrase": [
+      15,
+      19,
+      28,
+      7,
+      24,
+      9
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 908705.04,
+      "report": 13522677.6
+    },
+    "categoria_ii": {
+      "numar_castiguri": 27,
+      "valoare_castig": 11218.58,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1182,
+      "valoare_castig": 256.26,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 18491,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-10",
+    "zi": "Jo",
+    "numere_extrase": [
+      19,
+      44,
+      21,
+      20,
+      29,
+      12
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 618515.76,
+      "report": 12613972.56
+    },
+    "categoria_ii": {
+      "numar_castiguri": 2,
+      "valoare_castig": 103085.96,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 325,
+      "valoare_castig": 634.37,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6321,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-06",
+    "zi": "Du",
+    "numere_extrase": [
+      8,
+      32,
+      33,
+      19,
+      20,
+      1
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 939894.72,
+      "report": 11995456.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 8,
+      "valoare_castig": 39162.28,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 430,
+      "valoare_castig": 728.6,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9436,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-07-03",
+    "zi": "Jo",
+    "numere_extrase": [
+      38,
+      29,
+      14,
+      22,
+      43,
+      44
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 608563.2,
+      "report": 11055562.08
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 50713.6,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 274,
+      "valoare_castig": 740.34,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5408,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-29",
+    "zi": "Du",
+    "numere_extrase": [
+      19,
+      7,
+      6,
+      2,
+      23,
+      48
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 881392.32,
+      "report": 10446998.88
+    },
+    "categoria_ii": {
+      "numar_castiguri": 25,
+      "valoare_castig": 11751.89,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 788,
+      "valoare_castig": 372.83,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13036,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-26",
+    "zi": "Jo",
+    "numere_extrase": [
+      8,
+      43,
+      24,
+      45,
+      4,
+      40
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 614199.6,
+      "report": 9565606.56
+    },
+    "categoria_ii": {
+      "numar_castiguri": 2,
+      "valoare_castig": 102366.6,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 265,
+      "valoare_castig": 772.57,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5225,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-22",
+    "zi": "Du",
+    "numere_extrase": [
+      17,
+      27,
+      31,
+      18,
+      38,
+      5
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 921160.8,
+      "report": 8951406.96
+    },
+    "categoria_ii": {
+      "numar_castiguri": 10,
+      "valoare_castig": 30705.36,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 628,
+      "valoare_castig": 488.93,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 12250,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-19",
+    "zi": "Jo",
+    "numere_extrase": [
+      25,
+      28,
+      32,
+      23,
+      42,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 605612.64,
+      "report": 8030246.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 40374.17,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 302,
+      "valoare_castig": 668.44,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6090,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-15",
+    "zi": "Du",
+    "numere_extrase": [
+      22,
+      27,
+      47,
+      18,
+      26,
+      24
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 981528.72,
+      "report": 7424633.52
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 81794.06,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 546,
+      "valoare_castig": 599.22,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11147,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-12",
+    "zi": "Jo",
+    "numere_extrase": [
+      26,
+      2,
+      4,
+      36,
+      43,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 581156.64,
+      "report": 6443104.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 1,
+      "valoare_castig": 193718.88,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 253,
+      "valoare_castig": 765.68,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5046,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-08",
+    "zi": "Du",
+    "numere_extrase": [
+      18,
+      36,
+      20,
+      38,
+      16,
+      25
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 866991.84,
+      "report": 5861948.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 17,
+      "valoare_castig": 16999.84,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 578,
+      "valoare_castig": 499.99,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10258,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-05",
+    "zi": "Jo",
+    "numere_extrase": [
+      37,
+      19,
+      6,
+      47,
+      15,
+      44
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 549099.6,
+      "report": 4994956.32
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 45758.3,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 309,
+      "valoare_castig": 592.34,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5383,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-06-01",
+    "zi": "Du",
+    "numere_extrase": [
+      42,
+      43,
+      14,
+      22,
+      26,
+      45
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 949721.04,
+      "report": 4445856.72
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 63314.73,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 315,
+      "valoare_castig": 1004.99,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7431,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-29",
+    "zi": "Jo",
+    "numere_extrase": [
+      14,
+      29,
+      46,
+      24,
+      15,
+      21
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 587782.32,
+      "report": 3496135.68
+    },
+    "categoria_ii": {
+      "numar_castiguri": 7,
+      "valoare_castig": 27989.63,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 330,
+      "valoare_castig": 593.71,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7001,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-25",
+    "zi": "Du",
+    "numere_extrase": [
+      18,
+      42,
+      10,
+      37,
+      27,
+      13
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 856635.6,
+      "report": 2908353.36
+    },
+    "categoria_ii": {
+      "numar_castiguri": 20,
+      "valoare_castig": 14277.26,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 833,
+      "valoare_castig": 342.79,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13079,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-22",
+    "zi": "Jo",
+    "numere_extrase": [
+      1,
+      14,
+      6,
+      32,
+      10,
+      46
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 506994.24,
+      "report": 2051717.76
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 33799.61,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 303,
+      "valoare_castig": 557.74,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5972,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-18",
+    "zi": "Du",
+    "numere_extrase": [
+      25,
+      12,
+      33,
+      1,
+      4,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 802046.16,
+      "report": 1544723.52
+    },
+    "categoria_ii": {
+      "numar_castiguri": 7,
+      "valoare_castig": 38192.67,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 656,
+      "valoare_castig": 407.54,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11758,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-15",
+    "zi": "Jo",
+    "numere_extrase": [
+      26,
+      30,
+      5,
+      7,
+      19,
+      36
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 442677.36,
+      "report": 742677.36
+    },
+    "categoria_ii": {
+      "numar_castiguri": 7,
+      "valoare_castig": 21079.87,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 436,
+      "valoare_castig": 338.43,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8482,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-11",
+    "zi": "Du",
+    "numere_extrase": [
+      8,
+      10,
+      18,
+      16,
+      31,
+      24
+    ],
+    "categoria_i": {
+      "numar_castiguri": 1,
+      "valoare_castig": 10046415.6,
+      "report": 0.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 36,
+      "valoare_castig": 8301.8,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1044,
+      "valoare_castig": 286.26,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 15800,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-08",
+    "zi": "Jo",
+    "numere_extrase": [
+      17,
+      19,
+      25,
+      14,
+      45,
+      39
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 547747.44,
+      "report": 9149820.96
+    },
+    "categoria_ii": {
+      "numar_castiguri": 6,
+      "valoare_castig": 30430.41,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 436,
+      "valoare_castig": 418.76,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7599,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-04",
+    "zi": "Du",
+    "numere_extrase": [
+      30,
+      13,
+      24,
+      9,
+      3,
+      20
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 803112.72,
+      "report": 8602073.52
+    },
+    "categoria_ii": {
+      "numar_castiguri": 32,
+      "valoare_castig": 8365.75,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1208,
+      "valoare_castig": 221.6,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 16283,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-05-01",
+    "zi": "Jo",
+    "numere_extrase": [
+      34,
+      40,
+      3,
+      48,
+      45,
+      41
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 784777.92,
+      "report": 7798960.8
+    },
+    "categoria_ii": {
+      "numar_castiguri": 3,
+      "valoare_castig": 87197.54,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 202,
+      "valoare_castig": 1295.01,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 4772,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-27",
+    "zi": "Du",
+    "numere_extrase": [
+      9,
+      46,
+      16,
+      8,
+      43,
+      29
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 919198.8,
+      "report": 6914182.88
+    },
+    "categoria_ii": {
+      "numar_castiguri": 15,
+      "valoare_castig": 20426.64,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 562,
+      "valoare_castig": 545.19,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10714,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-24",
+    "zi": "Jo",
+    "numere_extrase": [
+      17,
+      12,
+      22,
+      8,
+      2,
+      19
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 534770.16,
+      "report": 5994984.08
+    },
+    "categoria_ii": {
+      "numar_castiguri": 22,
+      "valoare_castig": 8102.57,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 780,
+      "valoare_castig": 228.53,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10824,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-19",
+    "zi": "Sb",
+    "numere_extrase": [
+      8,
+      17,
+      35,
+      40,
+      42,
+      14
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 0.0,
+      "report": 4207293.6
+    },
+    "categoria_ii": {
+      "numar_castiguri": 15,
+      "valoare_castig": 25437.02,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 669,
+      "valoare_castig": 570.33,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13209,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-13",
+    "zi": "Du",
+    "numere_extrase": [
+      11,
+      29,
+      20,
+      3,
+      43,
+      16
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 889086.24,
+      "report": 3062627.28
+    },
+    "categoria_ii": {
+      "numar_castiguri": 20,
+      "valoare_castig": 14818.1,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 803,
+      "valoare_castig": 369.06,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 13139,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-10",
+    "zi": "Jo",
+    "numere_extrase": [
+      8,
+      39,
+      48,
+      18,
+      45,
+      34
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 539037.36,
+      "report": 2173541.04
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 44919.78,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 246,
+      "valoare_castig": 730.4,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 5091,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-06",
+    "zi": "Du",
+    "numere_extrase": [
+      1,
+      32,
+      19,
+      40,
+      41,
+      2
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 830833.68,
+      "report": 1634503.68
+    },
+    "categoria_ii": {
+      "numar_castiguri": 10,
+      "valoare_castig": 27694.45,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 274,
+      "valoare_castig": 1010.74,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7353,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-04-03",
+    "zi": "Jo",
+    "numere_extrase": [
+      49,
+      37,
+      46,
+      8,
+      42,
+      17
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 503670.0,
+      "report": 803670.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 3,
+      "valoare_castig": 55963.33,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 612,
+      "valoare_castig": 274.33,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 4580,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-30",
+    "zi": "Du",
+    "numere_extrase": [
+      37,
+      42,
+      14,
+      10,
+      5,
+      45
+    ],
+    "categoria_i": {
+      "numar_castiguri": 1,
+      "valoare_castig": 31567186.8,
+      "report": 0.0
+    },
+    "categoria_ii": {
+      "numar_castiguri": 15,
+      "valoare_castig": 28271.26,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 819,
+      "valoare_castig": 517.78,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 15257,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-27",
+    "zi": "Jo",
+    "numere_extrase": [
+      7,
+      35,
+      4,
+      18,
+      9,
+      20
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 798699.36,
+      "report": 30294979.68
+    },
+    "categoria_ii": {
+      "numar_castiguri": 14,
+      "valoare_castig": 19016.65,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 698,
+      "valoare_castig": 381.42,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 12475,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-23",
+    "zi": "Du",
+    "numere_extrase": [
+      37,
+      46,
+      24,
+      18,
+      12,
+      27
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1189164.48,
+      "report": 29496280.32
+    },
+    "categoria_ii": {
+      "numar_castiguri": 24,
+      "valoare_castig": 16516.17,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1125,
+      "valoare_castig": 352.34,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 19670,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-20",
+    "zi": "Jo",
+    "numere_extrase": [
+      8,
+      18,
+      40,
+      34,
+      10,
+      43
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 865441.68,
+      "report": 28307115.84
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 57696.11,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 439,
+      "valoare_castig": 657.13,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8732,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-16",
+    "zi": "Du",
+    "numere_extrase": [
+      43,
+      29,
+      34,
+      1,
+      32,
+      47
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1377130.8,
+      "report": 27441674.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 12,
+      "valoare_castig": 38253.63,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 517,
+      "valoare_castig": 887.89,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11507,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-13",
+    "zi": "Jo",
+    "numere_extrase": [
+      17,
+      32,
+      15,
+      1,
+      7,
+      19
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 784981.2,
+      "report": 26064543.36
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 52332.08,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 621,
+      "valoare_castig": 421.35,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 11787,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-09",
+    "zi": "Du",
+    "numere_extrase": [
+      22,
+      27,
+      39,
+      4,
+      12,
+      28
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 0.0,
+      "report": 24049263.52
+    },
+    "categoria_ii": {
+      "numar_castiguri": 15,
+      "valoare_castig": 22423.92,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 894,
+      "valoare_castig": 376.24,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 16593,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-06",
+    "zi": "Jo",
+    "numere_extrase": [
+      38,
+      16,
+      26,
+      29,
+      28,
+      30
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 784242.72,
+      "report": 23040186.88
+    },
+    "categoria_ii": {
+      "numar_castiguri": 5,
+      "valoare_castig": 52282.84,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 480,
+      "valoare_castig": 544.61,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8964,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-03-02",
+    "zi": "Du",
+    "numere_extrase": [
+      9,
+      21,
+      8,
+      35,
+      45,
+      19
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1209188.4,
+      "report": 22255944.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 17,
+      "valoare_castig": 23709.57,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 811,
+      "valoare_castig": 496.99,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 16345,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-27",
+    "zi": "Jo",
+    "numere_extrase": [
+      20,
+      11,
+      16,
+      41,
+      17,
+      46
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 789804.0,
+      "report": 21046755.76
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 29252.0,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 429,
+      "valoare_castig": 613.67,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 8748,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-23",
+    "zi": "Du",
+    "numere_extrase": [
+      23,
+      43,
+      21,
+      32,
+      1,
+      49
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1445363.04,
+      "report": 20256951.76
+    },
+    "categoria_ii": {
+      "numar_castiguri": 6,
+      "valoare_castig": 80297.94,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 533,
+      "valoare_castig": 903.91,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 12250,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-20",
+    "zi": "Jo",
+    "numere_extrase": [
+      19,
+      8,
+      16,
+      29,
+      39,
+      32
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 744226.56,
+      "report": 18711588.72
+    },
+    "categoria_ii": {
+      "numar_castiguri": 12,
+      "valoare_castig": 20672.96,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 517,
+      "valoare_castig": 479.83,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9849,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-16",
+    "zi": "Du",
+    "numere_extrase": [
+      17,
+      43,
+      13,
+      35,
+      5,
+      19
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1142294.64,
+      "report": 17967362.16
+    },
+    "categoria_ii": {
+      "numar_castiguri": 31,
+      "valoare_castig": 12282.73,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 1247,
+      "valoare_castig": 305.34,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 20553,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-13",
+    "zi": "Jo",
+    "numere_extrase": [
+      16,
+      15,
+      33,
+      40,
+      11,
+      25
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 759464.88,
+      "report": 16825067.52
+    },
+    "categoria_ii": {
+      "numar_castiguri": 10,
+      "valoare_castig": 25315.49,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 532,
+      "valoare_castig": 475.85,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10820,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-09",
+    "zi": "Du",
+    "numere_extrase": [
+      44,
+      48,
+      22,
+      12,
+      30,
+      6
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1166302.32,
+      "report": 16065602.64
+    },
+    "categoria_ii": {
+      "numar_castiguri": 14,
+      "valoare_castig": 27769.1,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 805,
+      "valoare_castig": 482.94,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 14359,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-06",
+    "zi": "Jo",
+    "numere_extrase": [
+      29,
+      35,
+      9,
+      4,
+      45,
+      40
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 738696.48,
+      "report": 14899300.32
+    },
+    "categoria_ii": {
+      "numar_castiguri": 4,
+      "valoare_castig": 61558.04,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 353,
+      "valoare_castig": 697.54,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7470,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-02-02",
+    "zi": "Du",
+    "numere_extrase": [
+      28,
+      22,
+      21,
+      31,
+      9,
+      25
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1101487.44,
+      "report": 14160603.84
+    },
+    "categoria_ii": {
+      "numar_castiguri": 13,
+      "valoare_castig": 28243.26,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 883,
+      "valoare_castig": 415.81,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 15331,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-30",
+    "zi": "Jo",
+    "numere_extrase": [
+      44,
+      36,
+      4,
+      45,
+      48,
+      12
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 722139.36,
+      "report": 13059116.4
+    },
+    "categoria_ii": {
+      "numar_castiguri": 8,
+      "valoare_castig": 30089.14,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 531,
+      "valoare_castig": 453.32,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 9810,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-26",
+    "zi": "Du",
+    "numere_extrase": [
+      25,
+      49,
+      28,
+      33,
+      23,
+      43
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1056183.84,
+      "report": 12336977.04
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 39117.92,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 652,
+      "valoare_castig": 539.97,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 14388,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-23",
+    "zi": "Jo",
+    "numere_extrase": [
+      47,
+      45,
+      23,
+      21,
+      32,
+      28
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 717262.32,
+      "report": 11280793.2
+    },
+    "categoria_ii": {
+      "numar_castiguri": 1,
+      "valoare_castig": 239087.44,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 345,
+      "valoare_castig": 693.0,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 7311,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-19",
+    "zi": "Du",
+    "numere_extrase": [
+      23,
+      48,
+      16,
+      32,
+      6,
+      35
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 1118904.24,
+      "report": 10563530.88
+    },
+    "categoria_ii": {
+      "numar_castiguri": 16,
+      "valoare_castig": 23310.5,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 709,
+      "valoare_castig": 526.04,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 12164,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-16",
+    "zi": "Jo",
+    "numere_extrase": [
+      23,
+      22,
+      3,
+      7,
+      19,
+      6
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 599825.52,
+      "report": 9444626.64
+    },
+    "categoria_ii": {
+      "numar_castiguri": 27,
+      "valoare_castig": 7405.25,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 779,
+      "valoare_castig": 256.66,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 12642,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-12",
+    "zi": "Du",
+    "numere_extrase": [
+      46,
+      42,
+      27,
+      5,
+      23,
+      18
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 973168.08,
+      "report": 8844801.12
+    },
+    "categoria_ii": {
+      "numar_castiguri": 29,
+      "valoare_castig": 11185.84,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 923,
+      "valoare_castig": 351.45,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 14314,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-09",
+    "zi": "Jo",
+    "numere_extrase": [
+      43,
+      29,
+      24,
+      46,
+      14,
+      11
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 591867.84,
+      "report": 7871633.04
+    },
+    "categoria_ii": {
+      "numar_castiguri": 10,
+      "valoare_castig": 19728.92,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 301,
+      "valoare_castig": 655.44,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 6483,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  },
+  {
+    "data_extragerii": "2025-01-05",
+    "zi": "Du",
+    "numere_extrase": [
+      44,
+      42,
+      5,
+      6,
+      40,
+      13
+    ],
+    "categoria_i": {
+      "numar_castiguri": "REPORT",
+      "valoare_castig": 956451.36,
+      "report": 7279765.2
+    },
+    "categoria_ii": {
+      "numar_castiguri": 9,
+      "valoare_castig": 35424.12,
+      "report": 0.0
+    },
+    "categoria_iii": {
+      "numar_castiguri": 511,
+      "valoare_castig": 623.9,
+      "report": 0.0
+    },
+    "categoria_iv": {
+      "numar_castiguri": 10879,
+      "valoare_castig": 30.0,
+      "report": 0.0
+    }
+  }
+]
