@@ -58,3 +58,42 @@ app/
 ### 4. Lean Server-Side Footprint
 - Convex manages database state, mutations, and backend logic.
 - Next.js API routes are minimized strictly to `/api/webhooks/stripe/route.ts` for handling asynchronous Stripe payment events.
+
+## Components Directory Architecture
+
+To keep the application modular, visually distinct, and maintainable, the `components/` directory is split by feature domain:
+
+```text
+components/
+├── ui/                            # Low-level UI primitives (Buttons, Cards, Badges, Modals)
+│   ├── button.tsx
+│   ├── card.tsx
+│   ├── badge.tsx
+│   └── skeleton.tsx
+│
+├── lottery/                       # Domain-specific lottery visual elements
+│   ├── loto-ball.tsx              # Single styled 3D/gradient lottery ball (numbers 1-49)
+│   ├── combo-display.tsx          # 6-ball combination row with entrance animations
+│   ├── frequency-table.tsx        # Hot/Cold numbers & frequency distribution charts
+│   └── jackpot-banner.tsx         # Live rollover jackpot card ("Marele Report")
+│
+├── checkout/                      # Payment & Fulfillment components
+│   ├── buy-button.tsx             # CTA button initializing Stripe Checkout session
+│   └── bilet-card.tsx             # Ticket card on /bilet/[sessionId] with export/copy/print options
+│
+├── layout/                        # Global layout components
+│   ├── navbar.tsx                 # Header with logo & nav links
+│   └── footer.tsx                 # Footer with legal & ANPC disclaimers
+│
+└── providers/                     # React Context / Client Providers
+    └── convex-provider.tsx        # Client-side Convex React Provider wrapper
+```
+
+### Component Breakdown
+
+1. **`components/ui/`**: Low-level, non-domain design primitives (reusable buttons, cards, skeletons).
+2. **`components/lottery/`**: Visual components specific to lottery data. `loto-ball.tsx` renders realistic numbered balls (1–49) with color gradients, and `combo-display.tsx` displays the 6-number set with smooth entrance animations.
+3. **`components/checkout/`**: Payment triggers (`buy-button.tsx`) and post-purchase ticket presentation (`bilet-card.tsx`) featuring copy/download capabilities.
+4. **`components/layout/`**: Global site framing (`navbar.tsx`, `footer.tsx` with compliance disclaimers).
+5. **`components/providers/`**: Context providers (e.g. `convex-provider.tsx` wrapping `ConvexReactClient`).
+
